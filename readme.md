@@ -10,7 +10,7 @@ Arcade\_NPP is licensed under The [MIT License](http://opensource.org/licenses/m
 0. Download and unzip the zipped Arcade_default_theme.xml from <https://raw.githubusercontent.com/steenhulthin/Arcade_NPP/master/Arcade_default_theme.xml> (This is the only file you need in order to use Arcade_NPP.) 
 0. Start Notepad++ and open the "Define your language..." (Under the "Language" tab)
 <br/>![user defined languages dialog screenshot](https://github.com/steenhulthin/Arcade_NPP/raw/master/documentation/select_user-defined_dialogue.png)
-0. Click "import" and select the unzipped Arcade_udl1.xml file.
+0. Click "import" and select the unzipped Arcade_default_theme.xml file.
 <br/>![import user defined language dialog]( https://github.com/steenhulthin/Arcade_NPP/raw/master/documentation/import_user_define_language.png)
 
 0. Restart Notepad++
