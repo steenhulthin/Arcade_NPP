@@ -4,9 +4,8 @@
 
 Arcade\_NPP is licensed under The [MIT License](http://opensource.org/licenses/mit-license) (see LICENSE file)
 
-##Install 
+## Install
 
-Steps:
 0. Make sure you have [Notepad++](http://www.notepad-plus-plus.org/) installed with the option to use %APPDATA% (which is the default).
 0. Download and unzip the zipped Arcade_default_theme.xml from <https://raw.githubusercontent.com/steenhulthin/Arcade_NPP/master/Arcade_default_theme.xml> (This is the only file you need in order to use Arcade_NPP.) 
 0. Start Notepad++ and open the "Define your language..." (Under the "Language" tab)
